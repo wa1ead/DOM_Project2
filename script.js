@@ -1,7 +1,7 @@
 var box = document.getElementById("colored-box");
-console.log(box);
+// console.log(box);
 var button = document.getElementById("color-changer-btn");
-console.log(button);
+// console.log(button);
 
 // Get Random Color function
 const getRandomColor = () => {
